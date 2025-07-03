@@ -1,4 +1,5 @@
 # Descripción del problema
+Este es un problema de HackerRank
 Dada una matriz cuadrada de tamaño 2n x 2n, cada celda contiene un número entero. El objetivo es maximizar la suma de los elementos en la submatriz cuadrada superior izquierda de tamaño n x n.
 
 Para lograr esto, se permiten operaciones que consisten en intercambiar filas o columnas completas de la matriz. Es decir, puedes "voltear" (flip) filas o columnas para reorganizar los elementos y así maximizar la suma de esa submatriz.
